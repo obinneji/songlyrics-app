@@ -1,10 +1,12 @@
-
+import Header from './Header';
 import './App.css';
+import FindSong from './FindSong';
 
 function App() {
   return (
     <div className="App">
-     <h1>hello world</h1>
+     <Header />
+     <FindSong />
     </div>
   );
 }

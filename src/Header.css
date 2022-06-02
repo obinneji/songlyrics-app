@@ -1,0 +1,17 @@
+.heading{
+    
+}
+
+.app-name{
+    margin-top: 1em;
+    font-weight: 700;
+    font-family: 'poppins';
+    text-transform: uppercase;
+}
+.app-motto{
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 2em;
+    text-transform: capitalize;
+    font-style: italic;
+}
