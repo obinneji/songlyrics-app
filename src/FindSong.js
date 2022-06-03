@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import './Body.css'
 import  Axios  from 'axios';
 
-import SearchIcon from '@mui/icons-material/Search';
 
 const FindSong = () => {
     const [songName, setSongName] = useState("")
@@ -33,7 +32,7 @@ Axios.request(options).then(function (response) {
     <div className='search-unit'>
     <input  type="text" placeholder='Enter Artist Name' onChange={(e)=>{setArtistName(e.target.value)}} />
      <input  type="text" placeholder='Enter Song Name' onChange={(e) => {setSongName(e.target.value)}} />
-     <button className= "Search-btn" onClick= { () => serchLyrics()}>Search<SearchIcon/></button>
+     <button className= "Search-btn" onClick= { () => serchLyrics()}>Search</button>
     </div>
       
 
