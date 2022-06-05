@@ -13,6 +13,9 @@ input{
     border-radius: 5px;
     text-transform: uppercase;
 }
+input:focus{
+    outline: 3px solid green;
+}
 input::placeholder{
     
     font-weight:500;
