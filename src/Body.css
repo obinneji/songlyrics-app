@@ -51,6 +51,12 @@ button:hover{
 .title{
     color: red;
 }
+pre{
+    color: white;
+    font-weight: 400;
+    margin: 0 3em;
+    
+}
 @media (max-width: 600px) {
     .search-unit{
         flex-direction: row;
