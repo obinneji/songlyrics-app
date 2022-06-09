@@ -2,13 +2,19 @@
 .app-name{
     margin-top: 1em;
     font-weight: 700;
-    font-family: 'poppins';
+    
     text-transform: uppercase;
+    color: REd;
+    font-size: 30px;
 }
 .app-motto{
     font-size: 10px;
-    font-weight: 400;
+    font-weight: 200;
     margin-bottom: 2em;
     text-transform: capitalize;
     font-style: italic;
+    color: white;
+}
+span{
+    color: white;
 }

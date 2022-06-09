@@ -26,6 +26,7 @@ Axios.request(options).then(function (response) {
 }).catch(function (error) {
 	console.error(error);
 });
+
     }
   return (
     <div>
@@ -37,6 +38,8 @@ Axios.request(options).then(function (response) {
       
 
       <div className='result'>
+      
+      <h3 className='title'>Lyrics for {songName}</h3>
       <pre>{lyric}</pre>
       </div>
     </div>

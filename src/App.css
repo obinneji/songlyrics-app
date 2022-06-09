@@ -1,11 +1,13 @@
+
 *{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 body{
-  background: linear-gradient( to left, red,blue);
-  color: azure;
+  background: black;
+  font-family: 'poppins';
+
 }
 .App {
   /* background-color:  blue; */
