@@ -56,5 +56,6 @@ This is an app made with ReactJS that  renders lyrics of songs to users. As a mu
 
 - Frontend Mentor - [obinneji](https://www.frontendmentor.io/profile/obinneji)
 - Twitter - [Obinneji Francis](https://www.twitter.com/francisobinneji)
--Linkedin-[Obinneji Chibuzor](https://www.linkedin.com/obinneji/)
+- Linkedin-[Obinneji Chibuzor](https://www.linkedin.com/obinneji/)
+
 
