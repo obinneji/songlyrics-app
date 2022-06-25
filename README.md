@@ -23,7 +23,7 @@ This is an app made with ReactJS that  renders lyrics of songs to users. As a mu
 
 ## Screenshot
 
-![screenshot](lyrics-screenshot.png)
+![screenshot](song-screenshot.png)
 
 ### Links
 
