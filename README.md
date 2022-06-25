@@ -6,7 +6,6 @@ This is an app made with ReactJS that  renders lyrics of songs to users. As a mu
 
 - [Overview](#overview)
 
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,12 +19,6 @@ This is an app made with ReactJS that  renders lyrics of songs to users. As a mu
 - User needs to input song name and Artist name 
 - Click the search button to get the lyrics.
 - An Api is responsible for fetcthing the lyrics
-
-
-### Screenshot
-
-![](./screenshot1.png)
-
 
 
 
