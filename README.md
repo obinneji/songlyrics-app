@@ -31,8 +31,8 @@ This is an app made with ReactJS that  renders lyrics of songs to users. As a mu
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/obinneji/songlyrics-app/)
-- Live Site URL: [Add live site URL here](https://songlyrics-app.vercel.app/)
+- Solution URL: [Github Repository](https://github.com/obinneji/songlyrics-app/)
+- Live Site URL: [Songlyrics-app](https://songlyrics-app.vercel.app/)
 
 ## My process
 - Created a react App
@@ -56,5 +56,5 @@ This is an app made with ReactJS that  renders lyrics of songs to users. As a mu
 
 - Frontend Mentor - [obinneji](https://www.frontendmentor.io/profile/obinneji)
 - Twitter - [Obinneji Francis](https://www.twitter.com/francisobinneji)
-
+-Linkedin-[Obinneji Chibuzor](https://www.linkedin.com/obinneji/)
 
