@@ -1,6 +1,6 @@
 # Song Lyrics App
 
-This is an app made with ReactJS that  renders lyrics of songs to users. As a music lover i decided to make an app so i can get lyrics of my favourite song.
+This is an app made with ReactJS that  renders lyrics of songs to users. As a music lover i decided to make an app so i can get lyrics of my favourite songs.
 
 ## Table of contents
 
